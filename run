@@ -1,0 +1,7 @@
+#!/bin/sh
+# daemontools run script
+exec 2>&1
+echo "Starting bathroom server."
+# TODO figure out why bathroom can't access gpio file when run this way:
+# exec envuidgid bathroom tcpserver -U -v -RHl0 0 50 bin/bathroom_status
+exec envdir envdir/ tcpserver -v -RHl0 0 50 bin/bathroom_status

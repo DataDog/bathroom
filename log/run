@@ -1,0 +1,3 @@
+#!/bin/sh
+# daemontools logging run script
+exec setuidgid bathroom logger --id --tag=bathroom
