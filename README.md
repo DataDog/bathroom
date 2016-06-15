@@ -3,7 +3,7 @@
   * Working in a shared office space with a limited number of bathrooms can cause wasted time checking on availibility
   * We thought it would be convienant to have an easy way to remotely check availability
 
-## Guidlines
+## Guidelines
   1. Do not be creepy 
     * a bathroom is a private space, no video etc
     * keep individual usage annoymous and untracked 
