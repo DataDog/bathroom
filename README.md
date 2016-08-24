@@ -28,6 +28,6 @@ sudo ln -s /service/bathroom /etc/service/bathroom
 ```
 $ nc bathroom.example.com 50
 Bathroom Status:
-12 men left: Available
-12 men right: Available
+left: Available
+right: Available
 ```
