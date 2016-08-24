@@ -1,7 +1,7 @@
 # Background
 
-  * Working in a shared office space with a limited number of bathrooms can cause wasted time checking on availability
-  * We thought it would be convenient to have an easy way to remotely check availability
+Working in a shared office space with a limited number of bathrooms can cause wasted time checking on availability.  We thought it would be convenient to have an easy way to remotely check availability.  You can find more details on the project and implementation on Datadog's Engineering blog, where we recently posted ['Restroom Hacks'](http://engineering.datadoghq.com/restroom-hacks/).
+  
 
 ## Guidelines
   1. Do not be creepy 
